@@ -1,0 +1,27 @@
+/* tagname or id or classname {
+
+    property:value;
+    property1:value2;
+
+}*/
+body{
+
+    background-color: sandybrown;
+}
+
+h1{
+    color: red;
+}
+#one{
+    color:rgb(74, 50, 168)
+}
+
+div{
+
+    border-style: solid;
+    border-color: seagreen;
+    border-width 5px;
+    background-color: slategray;
+    width:50%;
+
+}

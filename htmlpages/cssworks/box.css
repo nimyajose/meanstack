@@ -1,0 +1,25 @@
+#top{
+
+border-style:solid;
+border-color:darkblue;
+border-width: 6px;
+width:50%;
+margin-left: 250px;
+margin-top: 50px;
+padding-left:300px;
+background-color: darksalmon;
+font-family: 'Fira Sans', sans-serif;
+
+}
+
+#bottom{
+    border-style:solid;
+    border-color:darkgray;
+    border-width: 6px;
+    width:50%;
+    margin-top: 150px;
+    margin-left: 250px;
+    padding-left: 300px;
+    background-color: dimgray;
+    
+}

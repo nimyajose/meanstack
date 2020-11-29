@@ -1,0 +1,29 @@
+h1{
+    font-family:'Short Stack', cursive;
+    text-align:center;
+
+}
+table{
+   
+    margin: auto;
+}
+ 
+td{
+  height:300px;
+  padding:100px;
+  border:5px solid white;
+}
+#one{
+    background-color: #2478a0;
+}#two{
+    background-color: #70c183;
+}
+#three{
+    background-color: #b2dbbf;
+}
+#four{
+    background-color:#f3ffbd ;
+}
+#five{
+    background-color:#ff1654 ;
+}
